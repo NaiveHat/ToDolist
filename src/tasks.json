@@ -1,0 +1,40 @@
+{
+    "tareas": [
+        {
+            "Tittle": "Jokes",
+            "Responsible": "Chandler",
+            "Description": "Make people laugh",
+            "Priority": "High"
+        },
+        {
+            "Tittle": "Casanova",
+            "Responsible": "Joey",
+            "Description": "Total player",
+            "Priority": "Medium"
+        },
+        {
+            "Tittle": "Friendship",
+            "Responsible": "Rachel",
+            "Description": "Just be Nice",
+            "Priority": "Low"
+        },
+        {
+            "Tittle": "Cooking",
+            "Responsible": "Monica",
+            "Description": "Restaurant chef",
+            "Priority": "High"
+        },
+        {
+            "Tittle": "Music",
+            "Responsible": "Phoebe",
+            "Description": "Play Guitar",
+            "Priority": "Medium"
+        },
+        {
+            "Tittle": "Fossils",
+            "Responsible": "Ross",
+            "Description": "Paleontologhy",
+            "Priority": "Low"
+        }
+    ]
+}
